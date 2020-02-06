@@ -74,3 +74,12 @@ script - ""
 npm run deploy
 
 Copy the created URL and paste in browser to see deployed code
+
+............................
+Hooks
+Release 16.8.0
+100% backwards compatible
+User choice of using it.
+Hooks dont replace your knowledge of react concepts.
+Main purpose is to reuse stateful logic between components.
+Use of classes can be reduced at a greater extend.
